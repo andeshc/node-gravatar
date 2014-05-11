@@ -1,0 +1,1 @@
+Module for generating Gravatar URL for a given email address

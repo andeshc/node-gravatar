@@ -1,0 +1,25 @@
+{
+    "name": "node-gravatar",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:andeshc/node-gravatar.git"
+    },
+    "bugs": {
+        "url": "https://github.com/andeshc/node-gravatar/issues"
+    },
+    "author": {
+        "name": "Andesh Chogle",
+        "email": "andeshc@outlook.com",
+        "url": "http://www.andeshchogle.com"
+    },
+    "description": "Module for generating Gravatar URL for a given email address",
+    "keywords": ["node-gravatar", "gravatar", "md5"],
+    "dependencies": {
+        "MD5": ">= 1.2.1"
+    },
+    "main": "gravatar.js",
+    "engines": {
+        "node": "*"
+    }
+}
